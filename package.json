@@ -16,12 +16,12 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Haven-Code/CMCSoft-IU-API.git"
+		"url": "https://github.com/satthuno999/ApiSchedule.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Haven-Code/CMCSoft-IU-API/issues"
+		"url": "https://github.com/satthuno999/CMCSoft-IU-API/issues"
 	},
-	"homepage": "https://github.com/Haven-Code/CMCSoft-IU-API",
+	"homepage": "https://github.com/satthuno999/CMCSoft-IU-API",
 	"dependencies": {
 		"axios": "^0.20.0",
 		"axios-cookiejar-support": "^1.0.0",
